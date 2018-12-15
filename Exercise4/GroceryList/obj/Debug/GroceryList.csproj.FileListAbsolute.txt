@@ -1,0 +1,12 @@
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\bin\Debug\GroceryList.dll.config
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\bin\Debug\GroceryList.dll
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\bin\Debug\EntityFramework.dll
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\bin\Debug\EntityFramework.xml
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\obj\Debug\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\obj\Debug\GroceryList.csproj.CopyComplete
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\obj\Debug\GroceryList.dll
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\obj\Debug\GroceryList.pdb
+C:\Users\Likhit Budwal\Source\Repos\WebApp\GroceryList\obj\Debug\GroceryList.csprojAssemblyReference.cache
